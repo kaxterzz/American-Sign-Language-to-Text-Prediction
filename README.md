@@ -43,7 +43,7 @@ This project provides a backend service for recognizing American Sign Language (
 
 5. **Run the FastAPI server:**
    ```sh
-   uvicorn main:app --reload
+   fastapi dev main.py
    ```
 
 6. **Test the API:**
