@@ -1,4 +1,4 @@
-# ASL to Text MP4 Backend
+# ASL to Text Backend
 
 This project provides a backend service for recognizing American Sign Language (ASL) gestures from images using deep learning and MediaPipe. It exposes a FastAPI endpoint for predicting ASL signs from uploaded images.
 
